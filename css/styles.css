@@ -1,0 +1,165 @@
+body {
+  background-color: rgb(230, 213, 213);
+  text-align: center;
+}
+
+.div1 {
+  background-color: rgb(69, 95, 80);
+  position: relative;
+  padding-top: 200px;
+  max-width: 100%;
+  height: auto;
+}
+
+.h {
+  color: aqua;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 90px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: rgb(212, 123, 63);
+}
+
+h2 {
+  color: rgb(20, 201, 224);
+}
+
+.last {
+  color: rgb(248, 251, 252);
+}
+
+.uperc {
+  position: absolute;
+  top: 6%;
+  right: 22%
+}
+
+.downc {
+  position: absolute;
+  top: 49%;
+  left: 19%;
+}
+
+.p {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 260%;
+  margin-top: 10px;
+  color: aqua;
+}
+
+.spa {
+  font-family: 'Tangerine', cursive;
+  font-size: 110px;
+  color: aliceblue;
+}
+
+.div2 {
+  padding-top: 40px;
+}
+
+.div3 {
+  background-color: rgb(107, 221, 141);
+}
+
+.tophr {
+  border-style: dotted none none none;
+  border-color: rgb(127, 150, 113);
+  border-width: 2px;
+  width: 40%;
+  border-spacing: 3px;
+}
+
+.midhr {
+  border-width: 2px;
+  border-style: dotted;
+  border-color: rgb(82, 190, 19);
+}
+
+.p2 {
+  background-color: wheat;
+  color: rgb(4, 70, 100);
+  width: 30%;
+  margin: auto;
+}
+
+.p3 {
+  background-color: wheat;
+  color: rgb(4, 70, 100);
+}
+
+.design {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.edit {
+  margin: 70px auto 70px auto;
+  width: 25%;
+  float: left;
+  padding-right: 20px;
+}
+
+.rap {
+  width: 25%;
+  margin-left: 20px;
+  float: right;
+}
+
+.designhr {
+  border-style: dotted none none none;
+  border-width: 15px;
+  width: 75px;
+  border-color: ivory;
+}
+
+.mypic {
+  top: 40px;
+}
+
+#btn {
+  box-shadow: 1px 4px 3px 1px #899599;
+  background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+  background-color: #ededed;
+  border-radius: 11px;
+  border: 3px solid #d6bcd6;
+  display: inline-block;
+  cursor: pointer;
+  color: #3a8a9e;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 17px;
+  padding: 7px 25px;
+  text-decoration: none;
+  text-shadow: -3px 1px 6px #e1e2ed;
+}
+
+#btn:hover {
+  background: linear-gradient(to bottom, #bab1ba 12%, #ededed 100%);
+  background-color: #bab1ba;
+}
+
+#btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.contactme {
+  margin: auto;
+  padding: 60px auto 20px;
+}
+
+a {
+  color: #3a8a9e;
+  padding: 13px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(244, 246, 248);
+  font-family: 'Grand Hotel', cursive;
+}
